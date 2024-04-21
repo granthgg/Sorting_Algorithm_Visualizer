@@ -3,6 +3,11 @@
 ## Overview
 The Visual Sorting application is a web-based tool that visualizes various sorting algorithms in real time. It is implemented using HTML, CSS, and JavaScript, with Bootstrap and D3.js libraries.
 
+![Picture1](https://github.com/granthgg/Sorting_Algorithm_Visualizer/assets/69439823/fd31c131-e9ef-47dd-8264-3e4d35f7f927)
+![Picture1](https://github.com/granthgg/Sorting_Algorithm_Visualizer/assets/69439823/2bd959cc-dd39-4c99-b8a9-a7c39ac71292)
+![Picture3](https://github.com/granthgg/Sorting_Algorithm_Visualizer/assets/69439823/9d4c699a-f173-44e0-a903-915efbe9891c)
+
+
 ## Features
 - **Interactive User Interface**: The user interface is designed using Bootstrap, providing a responsive and mobile-first design.
 - **Visualization of Sorting Algorithms**: The application visualizes the sorting process for a variety of sorting algorithms and data sets in real time.
